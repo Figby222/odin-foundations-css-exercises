@@ -1,0 +1,20 @@
+.odd-nums {
+    /* background-color: rgb(255, 0,0, 0.7); */
+    background-color: pink;
+    font-size: 24px;
+}
+
+#num-2 {
+    color: blue;
+    font-size: 50px;
+}
+/* id attributes override class attributes */
+
+.change-font-size {
+    font-size: 40px;
+}
+
+#num-4 {
+    font-weight: bold;
+    background-color: lightgreen;
+}
